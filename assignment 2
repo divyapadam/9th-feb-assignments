@@ -1,0 +1,15 @@
+NUM=int(input("enter NUM:"))
+if(NUM%2==0):
+    print("even")
+else:
+    print("odd")
+    
+    
+       
+enter NUM:
+18
+even
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
