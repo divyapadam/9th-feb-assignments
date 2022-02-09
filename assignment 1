@@ -1,0 +1,17 @@
+a=int(input("enter a:"))
+b=int(input("enter b:"))
+if a>b:
+    print("a is biggest then b")
+else:
+    print("b is biggest then a")
+    
+    
+    enter a:
+25
+enter b:
+78
+b is biggest then a
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
